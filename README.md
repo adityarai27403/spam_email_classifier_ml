@@ -3,7 +3,7 @@
 ## Overview
 The **Email Spam Classifier** is a machine learning project designed to filter spam emails from legitimate messages. Using Natural Language Processing (NLP) techniques, the classifier identifies patterns in email text and determines whether an email should be classified as spam or not. This project demonstrates data preprocessing, feature extraction, model training, and evaluation to build an efficient spam detection system.
 
-![img.png](images/img.png)
+![img.png](images/img.jpeg)
 
 ## Features
 - **Preprocessing**: Cleans and tokenizes email text.
